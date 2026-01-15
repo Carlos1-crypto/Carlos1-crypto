@@ -1,3 +1,5 @@
-## Olá, eu sou Carlos Viana 👋
+## Olá, eu sou Carlos Viana 👋 Hello, I am Carlos Viana
 
-Sobre Mim
+
+# Sobre Mim / About me
+
